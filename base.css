@@ -1,0 +1,52 @@
+.btn {
+  display: inline-block;
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  border: solid 2px #3C4858;
+  position: relative;
+  overflow: hidden;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.nav {
+  height: 80px;
+  width: 80px;
+  border: solid 2px #fff;
+  background-image: url('./images/plus-light.svg');
+  transition: transform 0.4s ease;
+  background-color: #3C4858;
+  background-size: 40%;
+}
+
+.close {
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+  transition: transform 0.4s ease;
+  background-image: url('./images/plus-dark.svg');
+  background-color: #fff;
+  border: solid 2px #3C4858;
+}
+
+.menu {
+  /*display: none;*/
+}
+
+.home {
+  background-image: url('./images/home.svg');
+  background-size: 50%;
+}
+
+.notification {
+  background-image: url('./images/notification.svg');
+  background-size: 40%;
+}
+
+.message {
+  background-image: url('./images/message.svg');
+  background-size: 40%;
+}

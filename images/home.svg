@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="33px" viewBox="0 0 38 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="Group-3" transform="translate(1.000000, 2.000000)" stroke="#3C4858" stroke-width="2">
+            <path d="M29,10 L29,30" id="Line"></path>
+            <path d="M28,30 L8,30" id="Line"></path>
+            <path d="M7,10 L7,30" id="Line"></path>
+            <polyline id="Line" transform="translate(17.916225, 5.000000) scale(-1, -1) translate(-17.916225, -5.000000) " points="0.5 0.0207111027 17.8324491 10 35.3324491 -5.68434189e-14"></polyline>
+        </g>
+    </g>
+</svg>

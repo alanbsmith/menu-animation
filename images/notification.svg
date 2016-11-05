@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="33px" viewBox="0 0 29 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-4" transform="translate(1.000000, 1.000000)" stroke="#3C4858" stroke-width="2">
+            <path d="M13.4825806,20.8082192 C15.7633491,20.8082192 23.7251613,20.8082192 23.7251613,20.8082192 L23.7251613,10.4041096 C23.7251613,4.65807853 19.1394017,0 13.4825806,0 C7.82575956,0 3.24,4.65807853 3.24,10.4041096 C3.24,12.8677852 3.24,20.8082192 3.24,20.8082192 C3.24,20.8082192 10.2511854,20.8082192 13.4825806,20.8082192 Z" id="Oval-2"></path>
+            <path d="M17.2451613,30.5460557 C17.2451613,28.4352688 15.5605966,26.7241379 13.4825806,26.7241379 C11.4045647,26.7241379 9.72,28.4352688 9.72,30.5460557 C12.6142928,30.5460557 15.5085856,30.5460557 17.2451613,30.5460557 Z" id="Oval-2" transform="translate(13.482581, 28.635097) scale(1, -1) translate(-13.482581, -28.635097) "></path>
+            <path d="M0.209032258,23.9418989 L27,23.9418989" id="Line" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>
